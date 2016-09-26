@@ -1,0 +1,158 @@
+body{
+  margin-left: 0px;
+  margin-right: 0px;
+  margin-top: 0px;
+
+}
+
+ul{
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+
+}
+li{
+  display: inline;
+  float: left;
+}
+li a{
+  display: block;
+  padding: 10px;
+  text-decoration: none;
+  color: #fff;
+  font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
+}
+.navbar{
+  background: url(../images/bg.png) no-repeat center center fixed;
+  background-size: cover;
+  height: 40px;
+  padding-left: 20px;
+
+}
+.header{
+  background: url(../images/h1.jpg) no-repeat center;
+  background-size: cover;
+  height: 500px;
+}
+h1, h2{
+  color: teal;
+  text-align: center;
+}
+
+}
+a:hover, a:focus{
+  text-decoration: none;
+  color: #176e61;
+}
+.maincontainer{
+  background: url(../images/bg.png) no-repeat center center fixed;
+  background-size: cover;
+  height: 300px;
+
+}
+.leftset{
+  background: url(../images/content.png) no-repeat center;
+  background-size: cover;
+  height: 300px;
+  width: 190px;
+  position: absolute;
+
+}
+.col1{
+  height: 280px;
+  width: 340px;
+  margin-left: 210px;
+  position: absolute;
+  margin-top: 10px;
+  border-radius: 4px;
+}
+.col2{
+  height: 280px;
+  width: 340px;
+  margin-left: 580px;
+  position: absolute;
+  margin-top: 10px;
+  border-radius: 4px;
+}
+.col3{
+  height: 280px;
+  width: 340px;
+  margin-left: 950px;
+  position: absolute;
+  margin-top: 10px;
+  border-radius: 4px;
+}
+h3{
+  font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
+  text-align: center;
+  color: #fff;
+  text-decoration: underline;
+}
+.insetimg{
+  height:215px;
+  width: 330px;
+  margin-left: 5px;
+  border-radius: 4px;
+}
+p{
+  color: teal;
+  font-family: Helvetica, sans-serif;
+  font-size: 20pt;
+  text-align: center;
+}
+
+.col4{
+  background-color: #fff;
+  height: 250px;
+  width: 550px;
+  margin-left: 70px;
+  position: absolute;
+}
+.col5{
+  background-color: #fff;
+  height: 250px;
+  width: 550px;
+  margin-left: 660px;
+  position: absolute;
+}
+.message{
+  color: #660000;
+  font-size: 12pt;
+  line-height: 30px;
+  letter-spacing: 1.3px;
+  font-family: serif;
+  text-align: left;
+}
+.footer{
+  background: url(../images/bg.png) no-repeat center center fixed;
+  background-size: cover;
+  height: 150px;
+}
+.foot{
+  font-size: 11pt;
+  text-align: center;
+  padding-top: 70px;
+  color: #fff;
+}
+.table{
+  border-collapse: collapse;
+  border-spacing: 10px;
+  margin-left: 120px;
+}
+td{
+    width: 350px;
+    height: 250px;
+
+}
+.pic{
+  height:230px;
+  width: 330px;
+  margin-left: 10px;
+  border-radius: 5px;
+}
+.col6{
+  color: grey;
+  text-align: center;
+  line-height: 30px;
+
+}
